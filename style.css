@@ -1,0 +1,17 @@
+body{
+    margin: 50px;
+    text-align: center;
+    background: linear-gradient(lightpink 0%, lightblue 100%);
+}
+.line{
+    height: 6px;
+    background-color: black;
+    width: 70px;
+    margin: 8px auto;
+}
+img{
+    width: 30%;
+    border: 10px solid black;
+    border-radius: 50px;
+
+}
